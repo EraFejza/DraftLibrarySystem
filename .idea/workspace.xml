@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f149bc76-b3ce-4b71-9e87-efd93e761493" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2qyiFnDnKVEkLq8rAuDiLWBiPSK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainFx.executor": "Run",
+    "JUnit.AdministratorOperationsTest.executor": "Coverage",
+    "JUnit.AdministratorOperationsTest.test_checker_notAdmin_wrongUsername.executor": "Run",
+    "JUnit.BookFileOperationsTest.executor": "Debug",
+    "JUnit.LibrarianOperationsTest.executor": "Run",
+    "JUnit.ManagerOperationsTest.executor": "Run",
+    "JUnit.java in LibraryManager.executor": "Coverage",
+    "JUnit.librarymanager in LibraryManager.executor": "Coverage",
+    "JUnit.testFx in LibraryManager.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/erafe/OneDrive/Desktop/DraftLibrarySystem/src/test",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\erafe\OneDrive\Desktop\DraftLibrarySystem\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.librarymanager in LibraryManager">
+    <configuration name="MainFx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.librarymanager.MainFx" />
+      <module name="LibraryManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.librarymanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookFileOperationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibraryManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.librarymanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project.librarymanager" />
+      <option name="MAIN_CLASS_NAME" value="project.librarymanager.BookFileOperationsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in LibraryManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibraryManager" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="librarymanager in LibraryManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibraryManager" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/project/librarymanager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFx in LibraryManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibraryManager" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/testFx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainFx" />
+      <item itemvalue="JUnit.BookFileOperationsTest" />
+      <item itemvalue="JUnit.testFx in LibraryManager" />
+      <item itemvalue="JUnit.java in LibraryManager" />
+      <item itemvalue="JUnit.librarymanager in LibraryManager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.librarymanager in LibraryManager" />
+        <item itemvalue="JUnit.BookFileOperationsTest" />
+        <item itemvalue="JUnit.java in LibraryManager" />
+        <item itemvalue="JUnit.testFx in LibraryManager" />
+        <item itemvalue="Application.MainFx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f149bc76-b3ce-4b71-9e87-efd93e761493" name="Changes" comment="" />
+      <created>1735652575784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735652575784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DraftLibrarySystem$librarymanager_in_LibraryManager.ic" NAME="librarymanager in LibraryManager Coverage Results" MODIFIED="1737599932237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/DraftLibrarySystem$AdministratorOperationsTest.ic" NAME="AdministratorOperationsTest Coverage Results" MODIFIED="1735665164924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>project.librarymanager.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DraftLibrarySystem$java_in_LibraryManager.ic" NAME="java in LibraryManager Coverage Results" MODIFIED="1737596801356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
