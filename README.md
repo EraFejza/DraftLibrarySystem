@@ -16,3 +16,6 @@ This structured approach ensures **comprehensive validation** of the project's f
 
   ![image](https://github.com/user-attachments/assets/f4ff8a3a-926f-468a-a5dc-8e1442db81b0)
 
+## Total Coverage and Conclusions
+
+Running every single test that I had developed above with **coverage** left me with a **total coverage** as follows:
