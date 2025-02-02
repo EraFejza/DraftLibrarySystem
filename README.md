@@ -13,3 +13,6 @@ The `src` folder is divided into two subfolders: **main** and **test**.
   - **FX testing**, which also covers **system testing**  
 
 This structured approach ensures **comprehensive validation** of the project's functionality and reliability.
+
+  ![image](https://github.com/user-attachments/assets/f4ff8a3a-926f-468a-a5dc-8e1442db81b0)
+
