@@ -2,7 +2,7 @@
 
 This project was originally completed in my second year as part of the **Object-Oriented Programming** course and has been refined this year as I am retaking Java.
 
-## 📂 Folder Structure
+## Folder Structure
 
 ### Main Folder (`main`)
 The `main` folder contains six key classes that form the core functionality of the application:
