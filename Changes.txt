@@ -1,9 +1,12 @@
 Changes:
 
-Documentation is better structured, showcasing all test cases for each type of testing performed in the project.
+-Documentation is better structured, showcasing all test cases for each type of testing performed in the project.
 
-Test cases in the project are separated in distinct folders for Unit Testing, Integration Testing and FX Testing (System Testing)
+-Implemented Finite state diagrams (FSM) as well.
 
-Entire Unit testing section added, utilizing mocks to ensure maximal isolation when testing every single unit. Normally, not every single test case was integrated as this project
-is done single handedly. However, all methods for all classes are covered in integration testing.
+-Test cases in the project are separated in distinct folders for Unit Testing, Integration Testing and FX Testing (System Testing)
+
+-Entire Unit testing section added, utilizing mocks to ensure maximal isolation when testing every single unit. All methods for all classes are covered in integration testing.
+
+
 
